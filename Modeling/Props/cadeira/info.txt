@@ -1,0 +1,19 @@
+-Os arquivos disponíveis podem ser usados para qualquer fim;
+-the files avaliable can be used for anything;
+
+-Caso use o objeto disponível em algum trabalho seria interessante creditar o site;
+-In case you use the object in some work could be good give the credits to the site;
+
+Arquivos/files:
+-cadeira.blend
+-bcadeira.obj
+-tecido 1.jpg
+-tecido 2.jpg
+
+-A textura usada para o material foi retirada de www.textures.com;
+-The texture used for the material is from www.textures.com;
+
+-Caso haja algum problema com os arquivos ou traduções, por favor informe no site;
+-In case you found some problem with the files or the text above, please let me know;
+
+By: SilentVilela
